@@ -1,6 +1,5 @@
 import numpy
 import math
-import utils
 
 def removeHouseToIndex(array, index, intoArray):
     while index >= 0 and len(array) > 0:
